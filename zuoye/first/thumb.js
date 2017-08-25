@@ -26,30 +26,60 @@ var ParasiseButton = function () {
         value: function init() {
             var _this = this;
 
-            var time1000Click = myFunc.timeClick(1000);
+            // 在规定时间只能点击一次
+            // let time1000Click = myFunc.timeClick(1000);
+            // let $addOneDom = this.renderAddOneDom();
+            // this.$panel.append($addOneDom);
+            // this.$clickDom.on('click', ()=>time1000Click(()=>{
+            //         this.thumbUpNum = myFunc.add(this.thumbUpNum);
+            //         if (this.thumbUpNum > 0 ){
+            //             // $addOneDom.addClass('addOneAnimation');
+            //             this.$panel.append($addOneDom);
+            //             if ( this.thumbUpNum > 10 ) {
+            //                 this.resetNum();
+            //                 this.setIsVisbal(false);
+            //             }
+            //         } else if(this.thumbUpNum == 0) {
+            //             this.setIsVisbal(true);
+            //         }
+            //
+            //     }, ()=>{
+            //         $addOneDom.remove();
+            //     })
+            // );
+            // 随便点击
+            this.$clickDom.on('click', function () {
+                _this.thumbUpNum = myFunc.add(_this.thumbUpNum);
+                if (_this.thumbUpNum > 0) {
+                    // $addOneDom.addClass('addOneAnimation');
+                    _this.addOneAnimation();
+                    if (_this.thumbUpNum > 10) {
+                        _this.resetNum();
+                        _this.setIsVisbal(false);
+                    }
+                } else if (_this.thumbUpNum == 0) {
+                    _this.setIsVisbal(true);
+                }
+            });
+        }
+    }, {
+        key: 'addOneAnimation',
+        value: function addOneAnimation() {
             var $addOneDom = this.renderAddOneDom();
             this.$panel.append($addOneDom);
-            this.$clickDom.on('click', function () {
-                return time1000Click(function () {
-                    _this.thumbUpNum = myFunc.add(_this.thumbUpNum);
-                    if (_this.thumbUpNum > 0) {
-                        $addOneDom.addClass('addOneAnimation');
-                        if (_this.thumbUpNum > 10) {
-                            _this.resetNum();
-                            _this.setIsVisbal(false);
-                        }
-                    } else if (_this.thumbUpNum == 0) {
-                        _this.setIsVisbal(true);
-                    }
-                }, function () {
-                    $addOneDom.removeClass('addOneAnimation');
-                });
-            });
+            this.clearDom($addOneDom);
+        }
+    }, {
+        key: 'clearDom',
+        value: function clearDom($dom) {
+            setTimeout(function () {
+                $dom.remove();
+            }, 1000);
         }
     }, {
         key: 'renderAddOneDom',
         value: function renderAddOneDom() {
-            var addOneDom = $('<div class="addOneDom">+1</div>');
+            var addOneDom = $('<div class="addOneDom addOneAnimation">+1</div>');
             return addOneDom;
         }
     }, {
