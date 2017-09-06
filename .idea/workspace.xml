@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b0b7bc-33c2-41dc-aeef-c9006d1cb057" name="默认" comment="" />
+    <list default="true" id="e9b0b7bc-33c2-41dc-aeef-c9006d1cb057" name="默认" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/e2e/chromedriver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/css/thumbsup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/jquery.thumb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/thumb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/configs/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/controllers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/controllers/thumb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/models/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/models/thumbModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/spec/myfunc.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/test/thumb.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/bin/har-validator" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/cache.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/cacheEntry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/content.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/cookie.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/creator.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/entry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/har.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/log.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/page.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/pageTimings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/postData.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/record.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/request.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/response.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/timings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/dist/qs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/utils.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caseless/index.js" afterPath="$PROJECT_DIR$/node_modules/caseless/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caseless/package.json" afterPath="$PROJECT_DIR$/node_modules/caseless/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caseless/test.js" afterPath="$PROJECT_DIR$/node_modules/caseless/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/co/package.json" afterPath="$PROJECT_DIR$/node_modules/co/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/README.md" afterPath="$PROJECT_DIR$/node_modules/form-data/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/har-validator/README.md" afterPath="$PROJECT_DIR$/node_modules/har-validator/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/har-validator/package.json" afterPath="$PROJECT_DIR$/node_modules/har-validator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-my-json-valid/index.js" afterPath="$PROJECT_DIR$/node_modules/is-my-json-valid/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-my-json-valid/package.json" afterPath="$PROJECT_DIR$/node_modules/is-my-json-valid/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/request/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/README.md" afterPath="$PROJECT_DIR$/node_modules/request/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/index.js" afterPath="$PROJECT_DIR$/node_modules/request/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/auth.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/auth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/har.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/har.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/helpers.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/tunnel.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/tunnel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/package.json" afterPath="$PROJECT_DIR$/node_modules/request/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/request.js" afterPath="$PROJECT_DIR$/node_modules/request/request.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tough-cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tough-cookie/lib/cookie.js" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/lib/cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tunnel-agent/index.js" afterPath="$PROJECT_DIR$/node_modules/tunnel-agent/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" afterPath="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,71 +110,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="thumbsup.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.css">
+      <file leaf-file-name="e2e.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thumbsup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.thumb.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/jquery.thumb.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thumb.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/thumb.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thumb-es.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/thumb-es.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myfunc.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/myfunc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myfunc.spec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuoye/first/myfunc.spec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="210">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -102,6 +138,9 @@
       <replace>0</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -111,11 +150,9 @@
         <option value="$PROJECT_DIR$/karmastu/index.spec.js" />
         <option value="$PROJECT_DIR$/karmastu/karma.conf.js" />
         <option value="$PROJECT_DIR$/karmastu/e2e.js" />
-        <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/zuoye/first/jquery-3.2.1.min.js" />
         <option value="$PROJECT_DIR$/zuoye/first/system.js" />
         <option value="$PROJECT_DIR$/zuoye/first/system.spec.js" />
-        <option value="$PROJECT_DIR$/zuoye/first/e2e.js" />
         <option value="$PROJECT_DIR$/zuoye/first/thumb.spec.js" />
         <option value="$PROJECT_DIR$/zuoye/first/thumbsup.html" />
         <option value="$PROJECT_DIR$/zuoye/first/thumb.js" />
@@ -126,6 +163,26 @@
         <option value="$PROJECT_DIR$/zuoye/first/jquery.thumb.js" />
         <option value="$PROJECT_DIR$/zuoye/first/thumbsup.css" />
         <option value="$PROJECT_DIR$/zuoye/first/thumb-es.js" />
+        <option value="$PROJECT_DIR$/zuoye/first/e2e.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/thumb-es.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/thumb.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" />
+        <option value="$PROJECT_DIR$/zuoye/second/assets/js/jquery.thumb.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/configs/default.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/models/index.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/controllers/thumb.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/karma.conf.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/tests/test/thumb.test.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/app.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/zuoye/second/controllers/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/models/thumbModel.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/assets/js/thumb.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" />
       </list>
     </option>
   </component>
@@ -144,6 +201,9 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -166,6 +226,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -181,35 +244,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="yideng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yideng" type="462c0819:PsiDirectoryNode" />
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="yideng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yideng" type="462c0819:PsiDirectoryNode" />
-              <item name="karmastu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yideng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yideng" type="462c0819:PsiDirectoryNode" />
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
               <item name="zuoye" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="yideng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yideng" type="462c0819:PsiDirectoryNode" />
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
               <item name="zuoye" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +324,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zuoye/second/tests/spec" />
+      <recent name="$PROJECT_DIR$/zuoye/second/assets/css" />
+      <recent name="$PROJECT_DIR$/zuoye/second/assets/js" />
+      <recent name="$PROJECT_DIR$/zuoye/second/tests/e2e" />
+      <recent name="$PROJECT_DIR$/zuoye/second/views" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zuoye" />
       <recent name="$PROJECT_DIR$/zuoye/first" />
     </key>
   </component>
@@ -253,11 +364,18 @@
       <workItem from="1503281517159" duration="6701000" />
       <workItem from="1503416537264" duration="3918000" />
       <workItem from="1503541463312" duration="3986000" />
+      <workItem from="1504352632329" duration="931000" />
+      <workItem from="1504403139456" duration="1138000" />
+      <workItem from="1504411123166" duration="3210000" />
+      <workItem from="1504424359709" duration="526000" />
+      <workItem from="1504505954053" duration="8914000" />
+      <workItem from="1504592695344" duration="3662000" />
+      <workItem from="1504663083361" duration="1976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30702000" />
+    <option name="totallyTimeSpent" value="51059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,7 +394,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -298,126 +416,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/jquery.thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumb-es.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/e2e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/e2e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/index.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/karmastu/index.js" />
+    <entry file="file://$PROJECT_DIR$/karmastu/index.spec.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -426,27 +431,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/e2e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/funcBC/func.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/funcBC/func.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/karmastu/e2e.js" />
+    <entry file="file://$PROJECT_DIR$/funcBC/func.html" />
+    <entry file="file://$PROJECT_DIR$/funcBC/func.js" />
     <entry file="file://$USER_HOME$/学习/一灯/函数式编程/课上代码.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3225">
@@ -461,56 +448,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/funcBC/func.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/funcBC/func.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/index.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/funcBC/func.js" />
+    <entry file="file://$PROJECT_DIR$/funcBC/func.html" />
+    <entry file="file://$PROJECT_DIR$/karmastu/index.spec.js" />
+    <entry file="file://$PROJECT_DIR$/karmastu/index.js" />
+    <entry file="file://$PROJECT_DIR$/karmastu/karma.conf.js" />
     <entry file="file://$PROJECT_DIR$/zuoye/first/jquery-3.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -518,13 +460,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karmastu/e2e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/karmastu/e2e.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/until.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -532,58 +468,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/e2e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/system.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/first/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/myfunc.spec.js">
+    <entry file="file://$PROJECT_DIR$/zuoye/first/main.js" />
+    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/jquery.thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="0">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,30 +494,230 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/first/thumbsup.html">
+    <entry file="file://$PROJECT_DIR$/zuoye/first/myfunc.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/first/thumb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="367">
+          <caret line="117" column="7" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/first/jquery.thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/first/system.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/first/e2e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/system.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/first/thumb-es.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="1220">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/views/thumbsup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/myphp/yd/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/jquery.thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/configs/default.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/models/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nodejs/myNodeTest/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nodejs/noderq/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nodejs/watch/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../koaStu/test/hello-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../koaStu/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/models/thumbModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="48" column="42" lean-forward="false" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/test/thumb.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding />
         </state>
       </provider>
