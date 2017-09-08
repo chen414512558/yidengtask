@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b0b7bc-33c2-41dc-aeef-c9006d1cb057" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/e2e/chromedriver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/css/thumbsup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/jquery.thumb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/system.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/thumb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/configs/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/controllers/thumb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/models/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/models/thumbModel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/spec/myfunc.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/tests/test/thumb.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/bin/har-validator" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/error.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/runner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/cache.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/cacheEntry.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/content.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/cookie.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/creator.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/entry.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/har.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/log.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/page.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/pageTimings.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/postData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/record.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/request.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/response.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/har-validator/lib/schemas/timings.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/dist/qs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/utils.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caseless/index.js" afterPath="$PROJECT_DIR$/node_modules/caseless/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caseless/package.json" afterPath="$PROJECT_DIR$/node_modules/caseless/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caseless/test.js" afterPath="$PROJECT_DIR$/node_modules/caseless/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/co/package.json" afterPath="$PROJECT_DIR$/node_modules/co/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/README.md" afterPath="$PROJECT_DIR$/node_modules/form-data/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/har-validator/README.md" afterPath="$PROJECT_DIR$/node_modules/har-validator/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/har-validator/package.json" afterPath="$PROJECT_DIR$/node_modules/har-validator/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-my-json-valid/index.js" afterPath="$PROJECT_DIR$/node_modules/is-my-json-valid/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-my-json-valid/package.json" afterPath="$PROJECT_DIR$/node_modules/is-my-json-valid/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/request/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/README.md" afterPath="$PROJECT_DIR$/node_modules/request/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/index.js" afterPath="$PROJECT_DIR$/node_modules/request/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/auth.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/auth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/har.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/har.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/helpers.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/helpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/lib/tunnel.js" afterPath="$PROJECT_DIR$/node_modules/request/lib/tunnel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/package.json" afterPath="$PROJECT_DIR$/node_modules/request/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/request/request.js" afterPath="$PROJECT_DIR$/node_modules/request/request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tough-cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tough-cookie/lib/cookie.js" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/lib/cookie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tunnel-agent/index.js" afterPath="$PROJECT_DIR$/node_modules/tunnel-agent/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" afterPath="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" afterPath="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -113,8 +20,8 @@
       <file leaf-file-name="e2e.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -370,12 +277,12 @@
       <workItem from="1504424359709" duration="526000" />
       <workItem from="1504505954053" duration="8914000" />
       <workItem from="1504592695344" duration="3662000" />
-      <workItem from="1504663083361" duration="1976000" />
+      <workItem from="1504663083361" duration="3970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51059000" />
+    <option name="totallyTimeSpent" value="53053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,8 +294,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="23" width="1440" height="873" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -396,7 +302,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -716,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
