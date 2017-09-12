@@ -25,10 +25,10 @@
 
     function fetchClick(funcAjax) {
         let isClick = true;
-        return function () {
+        return function (...args) {
             if (isClick) {
                 isClick = false;
-                return funcAjax().then((data)=>{
+                return funcAjax.apply(this, args).then((data)=>{
                     isClick = true;
                     return data;
                 }).catch(e=>{

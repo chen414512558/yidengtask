@@ -11,5 +11,8 @@ module.exports = {
         password: '',
         database: 'yd',
         connectionLimit: 10
+    },
+    log: {
+
     }
 };

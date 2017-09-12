@@ -29,6 +29,7 @@
     "koa-router": "^7.2.1",
     "koa-static": "^4.0.1",
     "koa-swig": "^2.2.1",
+    "log4js": "^2.3.3",
     "promise-mysql": "^3.0.2",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",

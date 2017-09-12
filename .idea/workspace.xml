@@ -2,8 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b0b7bc-33c2-41dc-aeef-c9006d1cb057" name="默认" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/.bob.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/double-stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/example-connect-logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/example-socket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/flush-on-exit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/fromreadme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/hipchat-appender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/log-rolling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/logFaces-appender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/loggly-appender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/logstashUDP.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/memory-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/patternLayout-tokens.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/slack-appender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/examples/smtp-appender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/clustered.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/logFacesAppender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/date_format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/log4js.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/streams/BaseRollingFileStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/streams/DateRollingFileStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/streams/RollingFileStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/streams/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/isarray/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/isarray/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/isarray/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/isarray/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/isarray/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/duplex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/lib/_stream_duplex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/lib/_stream_passthrough.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/lib/_stream_readable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/lib/_stream_transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/lib/_stream_writable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/passthrough.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/readable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/readable-stream/writable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/string_decoder/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/string_decoder/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/string_decoder/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/string_decoder/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/string_decoder/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/categoryFilter-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/clusteredAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/configuration-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/configureNoLevels-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/connect-logger-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/consoleAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/dateFileAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/date_format-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/debug-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/fileAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/fileSyncAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/gelfAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/global-log-level-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/hipchatAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/layouts-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/levels-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/log-abspath-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/log4js.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/logFacesAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/logLevelFilter-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/logger-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/logging-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/logglyAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/logstashUDP-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/mailgunAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/multiprocess-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/newLevel-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/nolog-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/reloadConfiguration-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/setLevel-asymmetry-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/slackAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/smtpAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/stderrAppender-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/streams/BaseRollingFileStream-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/streams/DateRollingFileStream-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/streams/rollingFileStream-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/subcategories-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/with-categoryFilter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/with-dateFile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/with-log-rolling.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/log4js/test/with-logLevelFilter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/foot.js.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/head.js.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/semver.browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/semver.browser.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/semver.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/semver.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/big-numbers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/clean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/gtr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/ltr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/major-minor-patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/test/no-module.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/README.md" afterPath="$PROJECT_DIR$/node_modules/log4js/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/categoryFilter.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/categoryFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/console.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/console.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/dateFile.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/dateFile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/file.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/fileSync.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/fileSync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/gelf.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/gelf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/hipchat.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/hipchat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/logLevelFilter.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/logLevelFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/loggly.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/loggly.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/logstashUDP.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/logstashUDP.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/mailgun.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/mailgun.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/multiprocess.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/multiprocess.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/slack.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/slack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/smtp.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/smtp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/stderr.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/appenders/stderr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/connect-logger.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/connect-logger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/layouts.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/layouts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/levels.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/levels.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/log4js.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/log4js.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/lib/logger.js" afterPath="$PROJECT_DIR$/node_modules/log4js/lib/logger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/log4js/package.json" afterPath="$PROJECT_DIR$/node_modules/log4js/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/README.md" afterPath="$PROJECT_DIR$/node_modules/semver/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/semver.js" afterPath="$PROJECT_DIR$/node_modules/semver/semver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" afterPath="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/second/configs/default.js" afterPath="$PROJECT_DIR$/zuoye/second/configs/default.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" afterPath="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" afterPath="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +157,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="e2e.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuoye/second/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="375">
+              <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zuoye/second/configs/default.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -73,9 +223,7 @@
         <option value="$PROJECT_DIR$/zuoye/first/e2e.js" />
         <option value="$PROJECT_DIR$/zuoye/second/thumb-es.js" />
         <option value="$PROJECT_DIR$/zuoye/second/thumb.js" />
-        <option value="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" />
         <option value="$PROJECT_DIR$/zuoye/second/assets/js/jquery.thumb.js" />
-        <option value="$PROJECT_DIR$/zuoye/second/configs/default.js" />
         <option value="$PROJECT_DIR$/zuoye/second/models/index.js" />
         <option value="$PROJECT_DIR$/zuoye/second/controllers/thumb.js" />
         <option value="$PROJECT_DIR$/zuoye/second/karma.conf.js" />
@@ -85,11 +233,13 @@
         <option value="$PROJECT_DIR$/zuoye/second/controllers/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" />
         <option value="$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js" />
         <option value="$PROJECT_DIR$/zuoye/second/models/thumbModel.js" />
         <option value="$PROJECT_DIR$/zuoye/second/assets/js/thumb.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/views/thumbsup.html" />
         <option value="$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js" />
+        <option value="$PROJECT_DIR$/zuoye/second/configs/default.js" />
       </list>
     </option>
   </component>
@@ -174,45 +324,7 @@
               <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
               <item name="zuoye" type="462c0819:PsiDirectoryNode" />
               <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
-              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="configs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,11 +390,16 @@
       <workItem from="1504505954053" duration="8914000" />
       <workItem from="1504592695344" duration="3662000" />
       <workItem from="1504663083361" duration="3970000" />
+      <workItem from="1504839129576" duration="3301000" />
+      <workItem from="1504872148859" duration="358000" />
+      <workItem from="1504969365842" duration="694000" />
+      <workItem from="1505196209532" duration="26000" />
+      <workItem from="1505196519993" duration="1129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53053000" />
+    <option name="totallyTimeSpent" value="58561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,17 +411,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -333,27 +451,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/karmastu/e2e.js" />
     <entry file="file://$PROJECT_DIR$/funcBC/func.html" />
     <entry file="file://$PROJECT_DIR$/funcBC/func.js" />
-    <entry file="file://$USER_HOME$/学习/一灯/函数式编程/课上代码.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3225">
-          <caret line="215" column="25" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/学习/一灯/函数式编程/课上代码.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="215" column="25" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/学习/一灯/函数式编程/课上代码.js" />
+    <entry file="file://$USER_HOME$/学习/一灯/函数式编程/课上代码.js" />
     <entry file="file://$PROJECT_DIR$/funcBC/func.js" />
     <entry file="file://$PROJECT_DIR$/funcBC/func.html" />
     <entry file="file://$PROJECT_DIR$/karmastu/index.spec.js" />
@@ -449,15 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1220">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/views/thumbsup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -472,14 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/configs/default.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -494,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,6 +627,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/models/thumbModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/test/thumb.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="75" column="48" lean-forward="false" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/views/thumbsup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/second/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -548,82 +714,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/zuoye/second/configs/default.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/models/thumbModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/thumb-es.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="48" column="42" lean-forward="false" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/myfunc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/assets/js/thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/test/thumb.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/e2e/e2e.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
