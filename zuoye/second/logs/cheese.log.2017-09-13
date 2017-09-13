@@ -1,0 +1,10 @@
+[2017-09-13 12:32:00.450] [INFO] default - GET /user 404 18b
+[2017-09-13 12:32:14.135] [ERROR] default - GET / 500 - RequestError: Error: connect ECONNREFUSED 127.0.0.1:80
+[2017-09-13 12:34:32.557] [ERROR] default - GET / 500 - RequestError: Error: connect ECONNREFUSED 127.0.0.1:80
+[2017-09-13 12:35:56.415] [ERROR] default - GET / 500 - /Users/zihuichen/temp/mynodeStu/yidengtask/zuoye/second/middlewares/koa-log4js.js RequestError: Error: connect ECONNREFUSED 127.0.0.1:80
+[2017-09-13 12:43:47.270] [INFO] default - GET /index/index 200 899b
+[2017-09-13 12:43:47.297] [INFO] default - GET /css/thumbsup.css 200 3.04kb
+[2017-09-13 12:43:47.298] [INFO] default - GET /js/myfunc.js 200 1.12kb
+[2017-09-13 12:43:47.301] [INFO] default - GET /js/jquery-3.2.1.min.js 200 84.63kb
+[2017-09-13 12:43:47.301] [INFO] default - GET /js/jquery.thumb.js 200 171b
+[2017-09-13 12:43:47.334] [INFO] default - GET /js/thumb.js 200 5.51kb

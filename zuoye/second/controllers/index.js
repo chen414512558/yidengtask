@@ -14,7 +14,12 @@ router.all('/', async (ctx, next)=>{
     ctx.body = JSON.stringify(rets);
 });
 
-
 router.use('/thumb', thumbRouter.routes());
+
+
+router.all('*', async (ctx, next)=>{
+    ctx.status = 404;
+    ctx.body = '页面没有找到';
+})
 
 module.exports = router;
