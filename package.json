@@ -6,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "e2e": "node ./zuoye/second/tests/e2e/e2e.js",
-    "gulp:dev": "gulp",
-    "gulp:prod": "NODE_ENV=production gulp",
-    "client:prod": "NODE_ENV=production webpack --config ./zuoye/three/webpack.config.js",
-    "client:dev": "NODE_ENV=dev webpack --config ./zuoye/three/webpack.config.js --watch"
+    "gulp:dev": "cross-env NODE_ENV=dev gulp",
+    "gulp:prod": "cross-env NODE_ENV=production gulp",
+    "client:prod": "cross-env NODE_ENV=production webpack --config ./zuoye/three/configs/webpack.prod.conf.js",
+    "client:dev": "cross-env NODE_ENV=dev webpack --config ./zuoye/three/configs/webpack.dev.conf.js --watch"
   },
   "author": "",
   "license": "ISC",
@@ -38,11 +38,13 @@
     "style-loader": "^0.18.2",
     "supertest": "^3.0.0",
     "swig-loader": "^2.1.0",
-    "webpack": "^3.5.6"
+    "webpack": "^3.5.6",
+    "webpack-merge": "^4.1.0"
   },
   "dependencies": {
     "babel-plugin-transform-runtime": "^6.23.0",
     "co": "^4.6.0",
+    "cross-env": "^5.0.5",
     "koa": "^2.3.0",
     "koa-errorhandler": "^0.1.1",
     "koa-logger": "^3.0.1",
