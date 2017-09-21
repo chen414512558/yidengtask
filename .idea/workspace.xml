@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b0b7bc-33c2-41dc-aeef-c9006d1cb057" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/three/configs/htmlAfterWebpackPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/three/configs/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/three/configs/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/three/configs/webpack.prod.conf.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-06e94189.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-1762436b.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-4e9f5222.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-620405ff.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-c758d4dc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-d20195fa.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-e570f926.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/css/main-f108f11b.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-06e94189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-1762436b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-4e9f5222.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-620405ff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-c758d4dc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-d20195fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-e570f926.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/build/assets/js/main-f108f11b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/webpack.config.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/three/tests/unit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoye/three/tests/unit/specs/myfunc.spec.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zuoye/three/tests/spec/myfunc.spec.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/myfunc.js" afterPath="$PROJECT_DIR$/zuoye/three/src/webapp/libs/myfunc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zuoye/three/tests/test/thumb.test.js" afterPath="$PROJECT_DIR$/zuoye/three/tests/service/thumb.test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/three/build/views/thumbsup.html" afterPath="$PROJECT_DIR$/zuoye/three/build/views/thumbsup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/three/karma.conf.js" afterPath="$PROJECT_DIR$/zuoye/three/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/thumb.js" afterPath="$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/thumb.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,11 +24,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="karma.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuoye/three/karma.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="92" lean-forward="false" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+            <state relative-caret-position="120">
+              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuoye/three/tests/unit/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myfunc.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuoye/three/tests/unit/specs/myfunc.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zuoye/three/reports/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,10 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zuoye/first/myfunc.js" />
-        <option value="$PROJECT_DIR$/zuoye/first/main.js" />
-        <option value="$PROJECT_DIR$/zuoye/first/thumbsup.css" />
-        <option value="$PROJECT_DIR$/zuoye/first/thumb-es.js" />
         <option value="$PROJECT_DIR$/zuoye/first/e2e.js" />
         <option value="$PROJECT_DIR$/zuoye/second/thumb-es.js" />
         <option value="$PROJECT_DIR$/zuoye/second/thumb.js" />
@@ -124,7 +149,11 @@
         <option value="$PROJECT_DIR$/zuoye/three/configs/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/zuoye/three/configs/webpack.dev.conf.js" />
         <option value="$PROJECT_DIR$/zuoye/three/configs/webpack.config.js" />
+        <option value="$PROJECT_DIR$/zuoye/three/tests/unit/index.js" />
+        <option value="$PROJECT_DIR$/zuoye/three/tests/unit/spec/myfunc.spec.js" />
+        <option value="$PROJECT_DIR$/zuoye/three/karma.conf.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/zuoye/three/tests/unit/specs/myfunc.spec.js" />
       </list>
     </option>
   </component>
@@ -211,7 +240,58 @@
               <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
               <item name="zuoye" type="462c0819:PsiDirectoryNode" />
               <item name="three" type="462c0819:PsiDirectoryNode" />
-              <item name="configs" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="coverage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="coverage" type="462c0819:PsiDirectoryNode" />
+              <item name="PhantomJS 2.1.1 (Mac OS X 0.0.0)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="coverage" type="462c0819:PsiDirectoryNode" />
+              <item name="PhantomJS 2.1.1 (Mac OS X 0.0.0)" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yidengtask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yidengtask" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoye" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,11 +313,11 @@
       <recent name="$PROJECT_DIR$/zuoye/first" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zuoye/three/src/webapp/libs" />
       <recent name="$PROJECT_DIR$/zuoye/three/configs" />
       <recent name="$PROJECT_DIR$/zuoye/three/build/assets/js" />
       <recent name="$PROJECT_DIR$/zuoye/three/build/assets/css" />
       <recent name="$PROJECT_DIR$/zuoye/three/src/webapp" />
-      <recent name="$PROJECT_DIR$/zuoye/second/tests/spec" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,12 +365,12 @@
       <workItem from="1505452678872" duration="4336000" />
       <workItem from="1505529584417" duration="677000" />
       <workItem from="1505825958001" duration="8167000" />
-      <workItem from="1505900479034" duration="12822000" />
+      <workItem from="1505900479034" duration="14576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90322000" />
+    <option name="totallyTimeSpent" value="92076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,50 +416,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/logs/index.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/koa-errorhandler/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/logs/cheese.log.2017-09-13">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/middlewares/koa-log4js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="125" column="88" lean-forward="false" selection-start-line="125" selection-start-column="78" selection-end-line="125" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/controllers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/second/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/second/configs/default.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -403,14 +439,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/three/models/index.js" />
     <entry file="file://$PROJECT_DIR$/zuoye/three/models/thumbModel.js" />
-    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/spec/myfunc.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/three/tests/test/thumb.test.js">
+    <entry file="file://$PROJECT_DIR$/zuoye/three/tests/service/thumb.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -455,7 +484,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#52#0" expanded="false" />
+            <element signature="e#0#61#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -617,33 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-            <marker date="1505913183000" expanded="true" signature="160:415" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/myfunc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuoye/three/logs/cheese.log.2017-09-21">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -692,10 +694,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/tests/unit/myfunc.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/thumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#61#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/src/webapp/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <marker date="1505913183000" expanded="true" signature="160:415" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/tests/unit/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="92" lean-forward="false" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+        <state relative-caret-position="120">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/second/tests/spec/myfunc.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/src/webapp/libs/myfunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/reports/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/libs/myfunc.js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/reports/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/libs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/tests/unit/specs/myfunc.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuoye/three/reports/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

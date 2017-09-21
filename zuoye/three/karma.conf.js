@@ -1,11 +1,11 @@
 // Karma configuration
 // Generated on Sun Aug 20 2017 12:47:06 GMT+0800 (CST)
-
+const path = require('path');
 module.exports = function(config) {
   config.set({
 
     // base path that will be used to resolve all patterns (eg. files, exclude)
-    basePath: '',
+    basePath: './tests/unit/',
 
 
     // frameworks to use
@@ -15,31 +15,55 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-        'src/webapp/assets/js/myfunc.js',
-        './tests/spec/myfunc.spec.js'
+        'index.js'
     ],
 
 
-    // list of files to exclude
-    exclude: [
-        'karma.conf.js',
-    ],
+     // list of files to exclude
+     exclude: [
+     ],
 
 
-    // preprocess matching files before serving them to the browser
-    // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
-    preprocessors: {
-    },
+     // preprocess matching files before serving them to the browser
+     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
+      preprocessors: {
+          'index.js': ['webpack', 'babel']
+      },
 
 
-    // test results reporter to use
-    // possible values: 'dots', 'progress'
-    // available reporters: https://npmjs.org/browse/keyword/karma-reporter
-    reporters: ['progress'],
+     // test results reporter to use
+     // possible values: 'dots', 'progress'
+     // available reporters: https://npmjs.org/browse/keyword/karma-reporter
+      reporters: ['progress', 'coverage'],
+      coverageReporter: {
+          type: 'html',
+          dir: path.join(__dirname, './reports/coverage'),
+      },
+      webpack: {
+          module: {
+              rules: [
+                  // instrument only testing sources with Istanbul
+                  {
+                      test: /\.js$/,
+                      use: {
+                          loader: 'istanbul-instrumenter-loader',
+                          options: { esModules: true }
+                      },
+                      enforce: 'post',
+                      include: path.resolve('./src/webapp/libs')
+                  }
+              ]
+          }
+      },
 
-
-    // web server port
-    port: 9876,
+      babelPreprocessor: {
+          options: {
+              babelrc: false,
+              presets: ['es2015', 'stage-0'],
+          }
+      },
+      // web server port
+      port: 9876,
 
 
     // enable / disable colors in the output (reporters and logs)

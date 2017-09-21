@@ -1,7 +1,7 @@
 import {
     add,
     fetchClick,
-} from './myfunc';
+} from '../../libs/myfunc';
 import $ from 'jquery';
 class ParasiseButton {
     constructor(panelSelector, clickSelector) {
