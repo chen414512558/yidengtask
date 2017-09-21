@@ -1,16 +1,7 @@
 {
   "presets": [
-    "es2015"
+    ["es2015", { "modules": false }], "stage-0"
   ],
-  "plugins": []
+  "plugins": ["transform-runtime", "babel-polyfill"],
+  "ignore": ["./node_modules/*","./src/nodeuii/*"]
 }
-
-//[
-//  "transform-runtime",
-//  {
-//    "helpers": false,
-//    "polyfill": true,
-//    "regenerator": true,
-//    "moduleName": "babel-runtime"
-//  }
-//]

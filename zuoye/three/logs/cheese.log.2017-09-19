@@ -1,0 +1,24 @@
+[2017-09-19 22:26:18.662] [INFO] default - GET /index/index 200 784b
+[2017-09-19 22:26:18.672] [INFO] default - GET /assets/css/main-de6e13a9.css 404 18b
+[2017-09-19 22:26:18.673] [INFO] default - GET /assets/js/main-de6e13a9.js 404 18b
+[2017-09-19 22:26:18.770] [INFO] default - GET /assets/js/main-de6e13a9.js 404 18b
+[2017-09-19 22:26:23.615] [INFO] default - GET /assets/css/main-de6e13a9.css 404 18b
+[2017-09-19 22:28:16.557] [INFO] default - GET /index/index 200 784b
+[2017-09-19 22:28:16.571] [INFO] default - GET /assets/css/main-de6e13a9.css 404 18b
+[2017-09-19 22:28:16.571] [INFO] default - GET /assets/js/main-de6e13a9.js 404 18b
+[2017-09-19 22:28:16.620] [INFO] default - GET /assets/js/main-de6e13a9.js 404 18b
+[2017-09-19 22:49:49.392] [INFO] default - GET /index/index 200 790b
+[2017-09-19 22:49:49.409] [INFO] default - GET /css/main-af58f764.css 404 18b
+[2017-09-19 22:49:49.410] [INFO] default - GET /js/main-af58f764.js 404 18b
+[2017-09-19 22:49:49.509] [INFO] default - GET /js/main-af58f764.js 404 18b
+[2017-09-19 22:58:47.580] [INFO] default - GET /index/index 200 790b
+[2017-09-19 22:58:47.596] [INFO] default - GET /css/main-af58f764.css 404 18b
+[2017-09-19 22:58:47.597] [INFO] default - GET /js/main-af58f764.js 404 18b
+[2017-09-19 22:58:47.712] [INFO] default - GET /js/main-af58f764.js 404 18b
+[2017-09-19 22:59:09.623] [INFO] default - GET /index/index 200 790b
+[2017-09-19 22:59:09.649] [INFO] default - GET /css/main-af58f764.css 200 3.04kb
+[2017-09-19 22:59:09.650] [INFO] default - GET /js/main-af58f764.js 200 34.48kb
+[2017-09-19 23:15:59.206] [INFO] default - GET /index/index 200 766b
+[2017-09-19 23:15:59.224] [INFO] default - GET /css/main-89473a55.css 200 3.04kb
+[2017-09-19 23:15:59.225] [INFO] default - GET /js/main-89473a55.js 200 34.29kb
+[2017-09-19 23:16:01.071] [ERROR] default - POST /thumb/add 500 - /Users/zihuichen/temp/mynodeStu/yidengtask/zuoye/three/build/middlewares/koa-log4js.js Error: connect ECONNREFUSED 127.0.0.1:3306

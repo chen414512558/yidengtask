@@ -1,0 +1,10 @@
+[2017-09-21 11:24:43.685] [INFO] default - GET /index/index 200 547b
+[2017-09-21 11:24:43.703] [INFO] default - GET /css/main-06e94189.css 200 3.04kb
+[2017-09-21 11:24:43.704] [INFO] default - GET /js/main-06e94189.js 200 55.12kb
+[2017-09-21 11:24:45.950] [INFO] default - GET /css/main-06e94189.css 200 3.04kb
+[2017-09-21 11:24:53.318] [INFO] default - GET /index/index 200 547b
+[2017-09-21 11:24:53.334] [INFO] default - GET /css/main-06e94189.css 200 3.04kb
+[2017-09-21 11:24:53.335] [INFO] default - GET /js/main-06e94189.js 200 55.12kb
+[2017-09-21 11:26:09.393] [INFO] default - GET /index/index 200 547b
+[2017-09-21 11:26:09.403] [INFO] default - GET /css/main-620405ff.css 200 3.04kb
+[2017-09-21 11:26:09.405] [INFO] default - GET /js/main-620405ff.js 200 55.12kb

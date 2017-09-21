@@ -1,0 +1,22 @@
+[2017-09-20 21:01:58.167] [INFO] default - GET /index/index 200 818b
+[2017-09-20 21:01:58.177] [INFO] default - GET /css/main-f108f11b.css 200 3.04kb
+[2017-09-20 21:01:58.178] [INFO] default - GET /js/main-f108f11b.js 200 34.28kb
+[2017-09-20 21:02:57.812] [INFO] default - GET /index/index 200 824b
+[2017-09-20 21:02:57.827] [INFO] default - GET /css/main-f108f11b.css 200 3.04kb
+[2017-09-20 21:02:57.828] [INFO] default - GET /js/main-f108f11b.js 200 34.28kb
+[2017-09-20 21:03:02.210] [INFO] default - GET /css/main-f108f11b.css 200 3.04kb
+[2017-09-20 21:03:04.412] [INFO] default - GET /index/index 200 824b
+[2017-09-20 21:03:04.422] [INFO] default - GET /css/main-f108f11b.css 200 3.04kb
+[2017-09-20 21:03:04.422] [INFO] default - GET /js/main-f108f11b.js 200 34.28kb
+[2017-09-20 21:03:11.033] [ERROR] default - POST /thumb/add 500 - /Users/zihuichen/temp/mynodeStu/yidengtask/zuoye/three/build/middlewares/koa-log4js.js Error: connect ECONNREFUSED 127.0.0.1:3306
+[2017-09-20 21:04:06.050] [INFO] default - GET /index/index 200 824b
+[2017-09-20 21:04:06.068] [INFO] default - GET /css/main-f108f11b.css 200 3.04kb
+[2017-09-20 21:04:06.070] [INFO] default - GET /js/main-f108f11b.js 200 34.28kb
+[2017-09-20 21:04:07.312] [INFO] default - POST /thumb/add 200 24b
+[2017-09-20 21:04:08.083] [INFO] default - POST /thumb/add 200 24b
+[2017-09-20 21:04:08.764] [INFO] default - POST /thumb/add 200 24b
+[2017-09-20 21:04:09.394] [INFO] default - POST /thumb/add 200 24b
+[2017-09-20 21:13:27.620] [INFO] default - GET /index/index 200 547b
+[2017-09-20 21:13:27.642] [INFO] default - GET /css/main-c758d4dc.css 200 3.04kb
+[2017-09-20 21:13:27.644] [INFO] default - GET /js/main-c758d4dc.js 200 48.31kb
+[2017-09-20 21:13:44.164] [INFO] default - POST /thumb/add 200 24b
