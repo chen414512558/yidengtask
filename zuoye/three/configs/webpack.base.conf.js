@@ -17,7 +17,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: path.join(__dirname, '../src/webapp/views/thumbsup.html'),
-            filename: path.join(__dirname, './build/views/thumbsup.html'),
+            filename: path.join(__dirname, '../build/views/thumbsup.html'),
             inject: false,
         }),
         new HtmlWebpackPlugin({

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="thumbUp.spec"
+    errors="0" failures="1" hostname="" id="" package="thumbUp.spec" skipped="0"
+    tests="1" time="2.350" timestamp="Thu, 21 Sep 2017 07:54:20 GMT">
+  
+    <testcase name="Demo test thumb" classname="thumbUp.spec" time="2.350" assertions="4">
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;div[class=addOneDom]&gt; to be present for 500 milliseconds.">    at Object.Demo test thumb (/Users/zihuichen/temp/mynodeStu/yidengtask/zuoye/three/tests/e2e/thumbUp.spec.js:11:14)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
