@@ -30,19 +30,6 @@ module.exports = {
         new ExtractTextPlugin('css/[name]-[hash:8].css', {
             allChunks: true
         }),
-        new webpack.optimize.UglifyJsPlugin({
-            beautify: false,
-            output: {
-                comments: false
-            },
-            compress: {
-                warnings: false,
-                drop_console: true,
-                collapse_vars: true,
-                reduce_vars: true
-            },
-            sourceMap: false
-        }),
         new webpack.optimize.ModuleConcatenationPlugin()
     ],
     resolve: {
